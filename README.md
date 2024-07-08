@@ -1,19 +1,52 @@
-# Flutter72
+# Takım İsmi
+Flutter72
+
+# Ürün İle İlgili Bilgiler
+-
+
+Takım Elemanları
+-
+Merve Nur Yalçın-  Scrum Master/ Developer/ Product Owner
+Merve Kıtır- Developer
+Not: Takım arkadaşlarıma mesajlar atmama rağmen doğru dürüst iletişim kurulmadı. İkazlarıma rağmen  dahil olunmadı sadece bir takım arkadaşımla iletşimimi sağlayabildim. Scrum Master olarak bu süreci iyi yönetebilirim diye umut ediyorum.
 
 Ürün İsmi
 -
 WellnessWing
 
-Sprint Notları
+Ürün Açıklaması
 -
-Sprint süresi: 2 hafta (2023-02-20 - 2023-03-03)
-Ekip üyeleri: 
+Sağlık ve Fitness Uygulaması, kullanıcıların günlük sağlık ve fitness hedeflerine ulaşmalarına yardımcı olan kapsamlı bir mobil uygulamadır. Kullanıcılar, egzersiz rutinlerini takip edebilir, kişiselleştirilmiş diyet planları oluşturabilir ve sağlık istatistiklerini gözlemleyebilir. Uygulama, kullanıcıların yaşam kalitesini artırmak için sağlıklı yaşam tarzı alışkanlıklarını benimsemelerine yardımcı olur.
 
-Sprint hedefleri:
+# Ürünün Özellikleri
+
+
+Egzersiz Takibi:
 -
-Egzersiz rutini izleme özelliğini uygulayın
-Diyet planı oluşturma özelliği tasarlama ve uygulama
-Sağlık istatistikleri API'sini entegre edin
+Günlük Egzersiz Programı: Kullanıcılar, günün farklı saatlerinde yapacakları egzersizleri planlayabilir ve takip edebilir.
+Egzersiz Kütüphanesi: Kullanıcıların farklı egzersizler hakkında bilgi edinebileceği ve rehberli videolar izleyebileceği geniş bir kütüphane.
+Egzersiz Kaydı: Yapılan egzersizlerin süresi, yoğunluğu ve yakılan kalori miktarının kaydı.
+
+Diyet Planı Oluşturma:
+-
+Kişiselleştirilmiş Diyet Planları: Kullanıcıların sağlık hedeflerine göre (kilo kaybı, kas kütlesi artırma, sağlıklı beslenme vb.) özel diyet planları oluşturma imkanı.
+
+Sağlık İstatistikleri:
+-
+Adım Sayacı: Günlük atılan adımların sayısını izleme.
+Su Takibi: Günlük su tüketimini takip etme.
+
+Motivasyon ve Destek:
+-
+
+Hatırlatıcılar ve Bildirimler: Egzersiz yapma ve su içme hatırlatıcıları.
+Sosyal Paylaşım: Kullanıcılar, başarılarını ve ilerlemelerini sosyal medya platformlarında paylaşabilir.
+Arkadaşlar ve Topluluk: Kullanıcılar, arkadaşları ile bağlanabilir, grup oluşturabilir ve birbirlerini motive edebilir.
+
+İlerleme Raporları:
+-
+Grafikler ve İstatistikler: İlerlemenin görsel olarak izlenebilmesi için grafikler ve istatistiksel veriler.
+
 
 Hedef Kitle
 -
@@ -22,65 +55,30 @@ Demografi: 18-24 yaş arası genç yetişkinler ve 46-65 yaş arası yaşlı yet
 Hedefler: Fiziksel sağlığı iyileştirmek, enerji seviyelerini artırmak, ilerlemeyi takip etmede zorluk ve kişiselleştirilmiş zindeliğe sınırlı erişim,kiloyu yönetmek ve stresi azaltmak
 Sorunlu noktalar: Fitness ve beslenme kaynaklarına sınırlı erişim, motive kalmada zorluk ve kişiselleştirilmiş rehberlik eksikliği
 
-Sprint İç Tamamlama Tahmini
--
-Toplam tahmini puan: 40
-Tamamlanan puan: 32
-Tamamlanma yüzdesi: 40%
-
-Nokta Tamamlama Mantığı
--
-Her özellik, her biri tahmini bir puan değerine sahip daha küçük görevlere bölünmüştür
-Görevler, iş değerine ve karmaşıklığına göre önceliklendirilir
-Ekip üyeleri görevler üzerinde çalışır ve sprint panosunu buna göre günceller
-Puanlar aşağıdaki kriterlere göre verilir:
-Basit bir görevi tamamlamak için 1 puan (örneğin, bir UI bileşenini uygulamak)
-Orta karmaşıklıktaki bir görevi tamamlamak için 3 puan (örneğin, bir üçüncü taraf API'sini entegre etmek)
-Yüksek karmaşıklıktaki bir görevi tamamlamak için 5 puan (örneğin, bir makine öğrenimi algoritması uygulamak)
-
-Günlük Scrum
--
-Ekip üyeleri ilerlemelerini, planlarını ve engellerini paylaşır
-Scrum master, ekibin sprint hedeflerine ulaşma yolunda ilerlemesini sağlar
-
-Sprint Board Ekran görüntüleri
--
-Ürün Durumu: Ekran Görüntüleri
+# SPRİNT 1 
 -
 
-
-Sprint İncelemesi
+Sprint içinde tamamlanması tahmin edilen puan:  
 -
+60 Puan
 
-Paydaşlar geri bildirim ve önerilerde bulundu
-İnceleme sonucu: Özellikler tamamlandı ve gereksinimleri karşılıyor
+Puan tamamlama mantığı:
+-
+Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi.
 
-Sprint Retrospektifi
+Daily Scrum:
+-
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+
+Sprint Review:
+-
+Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Eksikleri ölçülmüştür ve değerlendirme yapıldı. Görev dağılımı için konuşulmuştur.
+
+Sprint Retrospective:
 -
 Ekip üyeleri neyin iyi gittiğini ve neyin gitmediğini tartıştı
-Belirlenen iyileştirme alanları:
-Ön uç ve arka uç ekipleri arasında daha iyi iletişim
-Geliştirilmiş test ve hata ayıklama süreçleri
-Eylem öğeleri:
-Ön uç ve arka uç ekipleri arasında düzenli toplantılar planlayın
-Kritik özellikler için otomatik test uygulayın
+Roller ile ilgili düzenleme yapılmış, scrum master belirlendi.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Takımlar arasında iletişimin daha sık olması gerektiği kararı alınmıştır.
+Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
-Kapsam URL'si
--
-
-Not: Bu yalnızca örnek bir rapordur ve özel gereksinimlerinize uyacak şekilde ayarlamanız gerekir.
-
-Sağlık ve Fitness uygulamasına gelince, kullanılan özelliklere ve teknolojilere üst düzey bir genel bakış:
--
-Egzersiz Rutini Takibi:
-Kullanıcılar egzersiz rutinlerini oluşturabilir ve takip edebilir
-Özellikler şunları içerir: egzersiz günlüğü, rutin zamanlama ve ilerleme takibi
-Kullanılan teknolojiler: Flutter, Firebase Gerçek Zamanlı Veritabanı
-Diyet Planı Oluşturma:
-Kullanıcılar diyet planlarını oluşturabilir ve özelleştirebilir
-Özellikler şunları içerir: yemek planlama, makro besin takibi ve tarif önerileri
-Kullanılan teknolojiler: Flutter, Firebase Firestore
-Sağlık İstatistikleri API Entegrasyonu:
-Kullanıcılar ağırlık, vücut yağ yüzdesi ve diğer ölçümler dahil olmak üzere sağlık istatistiklerini görüntüleyebilir
-Özellikler şunları içerir: API entegrasyonu, veri görselleştirme ve analiz
-Kullanılan teknolojiler: Flutter, HealthKit API (iOS için), Google Fit API (Android için)
