@@ -14,7 +14,7 @@ Sprint İç Tamamlama Tahmini
 -
 Toplam tahmini puan: 40
 Tamamlanan puan: 32
-Tamamlanma yüzdesi: 80%
+Tamamlanma yüzdesi: 60%
 
 Nokta Tamamlama Mantığı
 -
