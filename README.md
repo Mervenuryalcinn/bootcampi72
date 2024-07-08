@@ -1,4 +1,9 @@
 # Flutter72
+
+Ürün İsmi
+-
+WellnessWing
+
 Sprint Notları
 -
 Sprint süresi: 2 hafta (2023-02-20 - 2023-03-03)
@@ -9,6 +14,13 @@ Sprint hedefleri:
 Egzersiz rutini izleme özelliğini uygulayın
 Diyet planı oluşturma özelliği tasarlama ve uygulama
 Sağlık istatistikleri API'sini entegre edin
+
+Hedef Kitle
+-
+Demografi: 18-24 yaş arası genç yetişkinler ve 46-65 yaş arası yaşlı yetişkinler
+İlgi Alanları: Fitness, sağlık, zindelik, kişisel bakım ve kişisel gelişim
+Hedefler: Fiziksel sağlığı iyileştirmek, enerji seviyelerini artırmak, ilerlemeyi takip etmede zorluk ve kişiselleştirilmiş zindeliğe sınırlı erişim,kiloyu yönetmek ve stresi azaltmak
+Sorunlu noktalar: Fitness ve beslenme kaynaklarına sınırlı erişim, motive kalmada zorluk ve kişiselleştirilmiş rehberlik eksikliği
 
 Sprint İç Tamamlama Tahmini
 -
