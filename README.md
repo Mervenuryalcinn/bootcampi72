@@ -26,7 +26,7 @@ Sprint İç Tamamlama Tahmini
 -
 Toplam tahmini puan: 40
 Tamamlanan puan: 32
-Tamamlanma yüzdesi: 60%
+Tamamlanma yüzdesi: 40%
 
 Nokta Tamamlama Mantığı
 -
@@ -40,7 +40,6 @@ Yüksek karmaşıklıktaki bir görevi tamamlamak için 5 puan (örneğin, bir m
 
 Günlük Scrum
 -
-Her gün saat 10:00'da yapılır
 Ekip üyeleri ilerlemelerini, planlarını ve engellerini paylaşır
 Scrum master, ekibin sprint hedeflerine ulaşma yolunda ilerlemesini sağlar
 
@@ -58,7 +57,6 @@ Paydaşlar geri bildirim ve önerilerde bulundu
 
 Sprint Retrospektifi
 -
-2023-03-03 tarihinde 3:00 PM de yapıldı
 Ekip üyeleri neyin iyi gittiğini ve neyin gitmediğini tartıştı
 Belirlenen iyileştirme alanları:
 Ön uç ve arka uç ekipleri arasında daha iyi iletişim
