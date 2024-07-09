@@ -58,6 +58,13 @@ Sorunlu noktalar: Fitness ve beslenme kaynaklarına sınırlı erişim, motive k
 # SPRİNT 1 
 -
 
+Sprint Notu
+-
+UI tasarımlar için kullanılmasına karar verilmiştir.
+Fitness, sağlık, zindelik, kişisel bakım ve kişisel gelişim için kullanılmasına karar verildi.
+Giriş ekranı için ad, soyad, kilo,yaş,boy girilmesi istendi.
+Giriş sistemine göre yapılmasına karar verildi.
+  
 Sprint içinde tamamlanması tahmin edilen puan:  
 -
 60 Puan
