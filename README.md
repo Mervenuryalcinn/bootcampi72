@@ -70,6 +70,10 @@ Daily Scrum:
 -
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
+Ürün Durumu
+-
+![sağlık](https://github.com/Mervenuryalcinn/bootcampi72/assets/127102075/917ac56b-9b51-4277-9991-d5e6aeb3a51b)
+
 Sprint Review:
 -
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Eksikleri ölçülmüştür ve değerlendirme yapıldı. Görev dağılımı için konuşulmuştur.
