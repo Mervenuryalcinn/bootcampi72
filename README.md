@@ -113,7 +113,11 @@ Daily Scrum toplantıları, işbirliği ve hızlı iletişim için Whatsapp üze
 
 Spring Board Screenshoots 
 -
-
+https://github.com/Mervenuryalcinn/bootcampi72/issues/1#issue-2420750939
+https://github.com/Mervenuryalcinn/bootcampi72/issues/2#issue-2420751024
+https://github.com/Mervenuryalcinn/bootcampi72/issues/3#issue-2420751107
+https://github.com/Mervenuryalcinn/bootcampi72/issues/4#issue-2420751203
+https://github.com/Mervenuryalcinn/bootcampi72/issues/5#issue-2420751269
 
 Ürün Durumu :
 -
