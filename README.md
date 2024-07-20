@@ -120,6 +120,7 @@ https://github.com/Mervenuryalcinn/bootcampi72/issues/3#issue-2420751107
 https://github.com/Mervenuryalcinn/bootcampi72/issues/4#issue-2420751203
 https://github.com/Mervenuryalcinn/bootcampi72/issues/5#issue-2420751269
 
+
 Ürün Durumu :
 -
 ![giriş2](https://github.com/user-attachments/assets/7eee2919-85c6-4511-881f-d6c88362e207)
