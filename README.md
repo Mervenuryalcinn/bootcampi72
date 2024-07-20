@@ -106,7 +106,7 @@ Sprint içinde tamamlanması tahmin edilen puan:
 
 Puan tamamlama mantığı:
 -
-İkinci sprint'te daha karmaşık özellikler üzerinde çalışılacak ve toplamda 350 puanlık backlog'un %30'u tamamlanmış olacak.
+İkinci sprint'te daha karmaşık özellikler üzerinde çalışılacak ve toplamda 350 puanlık backlog'un %45'i tamamlanmış olacak.
 
 Daily Scrum:
 -
@@ -126,10 +126,11 @@ https://github.com/Mervenuryalcinn/bootcampi72/issues/5#issue-2420751269
 
 Sprint Review:
 -
-Kullanıcı profili oluşturma ve fitness hesaplamaları entegrasyonu başarıyla tamamlanmıştır. Egzersiz ve beslenme takibi için arayüz geliştirilmiştir. Eksiklikler ve geri bildirimler değerlendirilmiş, yeni öncelikler belirlenmiştir.
+Kullanıcı profili oluşturma ve sağlık durumu hesaplamaları entegrasyonu başarıyla tamamlanmıştır. Egzersiz ve beslenme takibi için arayüz geliştirilmiştir. Eksiklikler ve geri bildirimler değerlendirilmiş, yeni öncelikler belirlenmiştir.Logonun şekline karar verildi.
 
 Sprint Retrospective:
 -
 Ekip, sprint boyunca sağlanan ilerlemelerden memnun olup olmadıklarını değerlendirmiştir.
 Teknik zorluklar ve işbirliği süreçleri üzerinde tartışılmıştır. Geliştirme süreçlerinde iyileştirmeler yapılması kararlaştırılmıştır.
 Üçüncü sprint için planlamalar yapılmış, hedefler belirlenmiştir. Takım üyelerinin rol ve sorumlulukları yeniden gözden geçirilmiştir.
+Diyet Programı ve Egzersiz Programındaki hesaplamalar 3.sprinte kaldı.
