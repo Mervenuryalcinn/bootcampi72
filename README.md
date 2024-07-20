@@ -7,6 +7,7 @@ Flutter72
 Takım Elemanları
 -
 Merve Nur Yalçın-  Scrum Master/ Developer/ Product Owner
+Merve Kıtır - Developer
 Not: Takım arkadaşlarıma mesajlar atmama rağmen doğru dürüst iletişim kurulmadı. İkazlarıma rağmen  dahil olunmadı sadece bir takım arkadaşımla iletşimimi sağlayabildim. Scrum Master olarak bu süreci iyi yönetebilirim diye umut ediyorum.
 
 Ürün İsmi
@@ -101,7 +102,7 @@ Kullanıcı profili oluşturma, temel fitness hesaplamaları ve veri tabanı ent
   
 Sprint içinde tamamlanması tahmin edilen puan:  
 -
-80 Puan
+150 Puan
 
 Puan tamamlama mantığı:
 -
