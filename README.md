@@ -92,3 +92,39 @@ Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı al
 Takımlar arasında iletişimin daha sık olması gerektiği kararı alınmıştır.
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
+# SPRİNT 2 
+-
+
+Sprint Notu
+-
+Kullanıcı profili oluşturma, temel fitness hesaplamaları ve veri tabanı entegrasyonu için çalışmalar başlatılmıştır. Egzersiz ve beslenme takibi için arayüz tasarımları tamamlanmıştır.
+  
+Sprint içinde tamamlanması tahmin edilen puan:  
+-
+80 Puan
+
+Puan tamamlama mantığı:
+-
+İkinci sprint'te daha karmaşık özellikler üzerinde çalışılacak ve toplamda 350 puanlık backlog'un %30'u tamamlanmış olacak.
+
+Daily Scrum:
+-
+Daily Scrum toplantıları, işbirliği ve hızlı iletişim için Whatsapp üzerinden gerçekleştirilmektedir.
+
+Spring Board Screenshoots 
+-
+
+
+Ürün Durumu :
+-
+![sağlık](https://github.com/Mervenuryalcinn/bootcampi72/assets/127102075/917ac56b-9b51-4277-9991-d5e6aeb3a51b)
+
+Sprint Review:
+-
+Kullanıcı profili oluşturma ve fitness hesaplamaları entegrasyonu başarıyla tamamlanmıştır. Egzersiz ve beslenme takibi için arayüz geliştirilmiştir. Eksiklikler ve geri bildirimler değerlendirilmiş, yeni öncelikler belirlenmiştir.
+
+Sprint Retrospective:
+-
+Ekip, sprint boyunca sağlanan ilerlemelerden memnun olup olmadıklarını değerlendirmiştir.
+Teknik zorluklar ve işbirliği süreçleri üzerinde tartışılmıştır. Geliştirme süreçlerinde iyileştirmeler yapılması kararlaştırılmıştır.
+Üçüncü sprint için planlamalar yapılmış, hedefler belirlenmiştir. Takım üyelerinin rol ve sorumlulukları yeniden gözden geçirilmiştir.
