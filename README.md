@@ -118,6 +118,7 @@ Daily Scrum toplantıları, işbirliği ve hızlı iletişim için Whatsapp üze
 
 Spring Board Screenshoots 
 -
+<img width="325" alt="Ekran Resmi 2024-07-20 12 02 45" src="https://github.com/user-attachments/assets/8407483c-6809-4671-a9e2-11846a1054bb">
 https://github.com/Mervenuryalcinn/bootcampi72/issues/1#issue-2420750939
 https://github.com/Mervenuryalcinn/bootcampi72/issues/2#issue-2420751024
 https://github.com/Mervenuryalcinn/bootcampi72/issues/3#issue-2420751107
