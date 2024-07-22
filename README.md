@@ -111,6 +111,8 @@ Puan tamamlama mantığı:
 
 Daily Scrum:
 -
+![Uploading WhatsApp Image 2024-07-22 at 12.13.34 PM.jpeg…]()
+
 Daily Scrum toplantıları, işbirliği ve hızlı iletişim için Whatsapp üzerinden gerçekleştirilmektedir.
 
 Spring Board Screenshoots 
