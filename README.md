@@ -77,6 +77,7 @@ Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır
 Daily Scrum:
 -
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+![WhatsApp Image 2024-07-22 at 12 13 34 PM](https://github.com/user-attachments/assets/9d60467f-0e15-49d0-a81f-4822cd480527)
 
 Ürün Durumu
 -
