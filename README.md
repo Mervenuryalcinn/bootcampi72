@@ -120,11 +120,9 @@ Spring Board Screenshoots
 -
 <img width="325" alt="Ekran Resmi 2024-07-20 12 02 45" src="https://github.com/user-attachments/assets/8407483c-6809-4671-a9e2-11846a1054bb">
 <img width="373" alt="Ekran Resmi 2024-07-20 12 03 03" src="https://github.com/user-attachments/assets/643a5808-e254-4809-80f1-3a39047c3fae">
-https://github.com/Mervenuryalcinn/bootcampi72/issues/1#issue-2420750939
-https://github.com/Mervenuryalcinn/bootcampi72/issues/2#issue-2420751024
-https://github.com/Mervenuryalcinn/bootcampi72/issues/3#issue-2420751107
-https://github.com/Mervenuryalcinn/bootcampi72/issues/4#issue-2420751203
-https://github.com/Mervenuryalcinn/bootcampi72/issues/5#issue-2420751269
+<img width="387" alt="Ekran Resmi 2024-07-20 12 03 14" src="https://github.com/user-attachments/assets/b5fe9069-4fa3-4acd-8805-5823b8be8487">
+<img width="322" alt="Ekran Resmi 2024-07-20 12 03 31" src="https://github.com/user-attachments/assets/8122a43c-54db-4b16-9f56-c08531dbf4f5">
+<img width="291" alt="Ekran Resmi 2024-07-20 12 03 40" src="https://github.com/user-attachments/assets/9d25a2c3-f8fa-491b-b39e-29eadf44b28e">
 
 
 Ürün Durumu :
