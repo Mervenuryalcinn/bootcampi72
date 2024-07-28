@@ -141,3 +141,30 @@ Ekip, sprint boyunca sağlanan ilerlemelerden memnun olup olmadıklarını değe
 Teknik zorluklar ve işbirliği süreçleri üzerinde tartışılmıştır. Geliştirme süreçlerinde iyileştirmeler yapılması kararlaştırılmıştır.
 Üçüncü sprint için planlamalar yapılmış, hedefler belirlenmiştir. Takım üyelerinin rol ve sorumlulukları yeniden gözden geçirilmiştir.
 Diyet Programı ve Egzersiz Programındaki hesaplamalar 3.sprinte kaldı.
+
+# SPRİNT 3 
+-
+
+Sprint içinde tamamlanması tahmin edilen puan:  
+-
+140 Puan
+
+Daily Scrum:
+-
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+
+Spring Board Screenshoots 
+-
+
+Ürün Durumu :
+-
+
+Sprint Review:
+-
+ Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir.
+ Diyet Programı ve Egzersiz Programındaki hesaplamalar yapılmıştır.
+  
+
+Sprint Retrospective:
+-
+Yarışmanın başında belirlenen ve daha önceki sprintlerde bahsedilen tüm özellikler eklendi ve proje yarım kaldı, tamamlanmak üzeri ileriye tarihe atıldı.
