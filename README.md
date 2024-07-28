@@ -155,6 +155,10 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 Spring Board Screenshoots 
 -
+<img width="408" alt="Ekran Resmi 2024-07-28 21 58 33" src="https://github.com/user-attachments/assets/f7f19148-bf4f-46e5-9508-492aa40de4a8">
+<img width="325" alt="Ekran Resmi 2024-07-28 21 58 51" src="https://github.com/user-attachments/assets/ecd9c2c1-3f06-4178-978b-591b2f017e2b">
+<img width="344" alt="Ekran Resmi 2024-07-28 21 59 24" src="https://github.com/user-attachments/assets/2f8407e2-8bc3-4eaf-b610-12f42f0c3b4a">
+
 
 Ürün Durumu :
 -
