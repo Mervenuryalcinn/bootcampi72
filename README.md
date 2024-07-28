@@ -157,7 +157,8 @@ Spring Board Screenshoots
 -
 
 Ürün Durumu :
--
+-![indeks1](https://github.com/user-attachments/assets/e4b10ee1-b02f-4471-b55b-7c2936b8b43e)
+![indeksi2](https://github.com/user-attachments/assets/164f6346-3026-4fec-900a-a26196953529)
 
 Sprint Review:
 -
@@ -167,4 +168,5 @@ Sprint Review:
 
 Sprint Retrospective:
 -
-Yarışmanın başında belirlenen ve daha önceki sprintlerde bahsedilen tüm özellikler eklendi ve proje yarım kaldı, tamamlanmak üzeri ileriye tarihe atıldı.
+Yarışmanın başında belirlenen ve daha önceki sprintlerde bahsedilen tüm özellikler eklendi ve proje başarıyla tamamlandı.
+
