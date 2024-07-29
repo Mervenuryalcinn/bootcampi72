@@ -162,6 +162,8 @@ Spring Board Screenshoots
 
 Ürün Durumu :
 -
+![girissayfa](https://github.com/user-attachments/assets/03e29592-6fbc-47fe-8fb0-8338c598bbe1)
+![kitleindeksi](https://github.com/user-attachments/assets/523206b6-104b-4ac2-8f83-27ca8495307c)
 ![indeks1](https://github.com/user-attachments/assets/bc23157a-511f-49bc-90c5-a4c1e94f2bff)
 ![indeksi2](https://github.com/user-attachments/assets/164f6346-3026-4fec-900a-a26196953529)
 ![egzersiz](https://github.com/user-attachments/assets/b92b1880-4994-4758-8a78-f43569d02c80)
