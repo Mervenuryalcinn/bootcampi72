@@ -124,7 +124,6 @@ Spring Board Screenshoots
 <img width="387" alt="Ekran Resmi 2024-07-20 12 03 14" src="https://github.com/user-attachments/assets/b5fe9069-4fa3-4acd-8805-5823b8be8487">
 <img width="322" alt="Ekran Resmi 2024-07-20 12 03 31" src="https://github.com/user-attachments/assets/8122a43c-54db-4b16-9f56-c08531dbf4f5">
 <img width="291" alt="Ekran Resmi 2024-07-20 12 03 40" src="https://github.com/user-attachments/assets/9d25a2c3-f8fa-491b-b39e-29eadf44b28e">
-![Uploading Ekran Resmi 2024-07-29 21.10.52.png…]()
 
 Ürün Durumu :
 -
@@ -158,6 +157,7 @@ Spring Board Screenshoots
 <img width="408" alt="Ekran Resmi 2024-07-28 21 58 33" src="https://github.com/user-attachments/assets/f7f19148-bf4f-46e5-9508-492aa40de4a8">
 <img width="325" alt="Ekran Resmi 2024-07-28 21 58 51" src="https://github.com/user-attachments/assets/ecd9c2c1-3f06-4178-978b-591b2f017e2b">
 <img width="344" alt="Ekran Resmi 2024-07-28 21 59 24" src="https://github.com/user-attachments/assets/2f8407e2-8bc3-4eaf-b610-12f42f0c3b4a">
+<img width="1063" alt="Ekran Resmi 2024-07-29 21 10 52" src="https://github.com/user-attachments/assets/7ccfd221-45e2-427e-99b9-9a760d07db92">
 
 
 Ürün Durumu :
