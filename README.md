@@ -111,7 +111,6 @@ Puan tamamlama mantığı:
 
 Daily Scrum:
 -
-![WhatsApp Image 2024-07-22 at 12 13 34 PM](https://github.com/user-attachments/assets/9d60467f-0e15-49d0-a81f-4822cd480527)
 
 Daily Scrum toplantıları, işbirliği ve hızlı iletişim için Whatsapp üzerinden gerçekleştirilmektedir.
 
